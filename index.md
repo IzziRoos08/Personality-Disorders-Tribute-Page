@@ -116,7 +116,7 @@ isn’t as much information regarding it.</em></p>
 <p><em>Schizotypal personality disorder is characterized by patterns of social and interpersonal limitations. People with this disorder often experience discomfort in social settings and cannot maintain close relationships. They tend to be socially isolated, reserved, and distant from those around them.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-   
+   <ul>
      <li>Experience perceptual and cognitive distortions and eccentric behavior.</li>
      <li>Many believe they have odd abilities, they may believe they can read other people's thoughts, or that their own thoughts have been stolen from their heads.</li>
      <li>Unusual dress, thinking, beliefs, speech, or behavior.</li>
@@ -125,6 +125,7 @@ isn’t as much information regarding it.</em></p>
      <li>Experience social anxiety and a lack of or discomfort with close relationships.</li>
      <li>Indifferent, inappropriate, or suspicious response to others.</li>
      <li>Often believe that certain events have hidden messages meant only for a schizoid person.</li>
+	</ul>
 <br></br>   
 
 <img src="https://dz9yg0snnohlc.cloudfront.net/cro-what-is-schizotypal-personality-disorder-and-how-is-it-treated-1.jpg" width="450" height="300">
@@ -142,20 +143,20 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 
 
 <h3>Cluster B</h3>
-
+<ul>
     <li><a href="#antisocial">Antisocial Personality Disorder</a></li>
     <li><a href="#borderline">Borderline Personality Disorder</a></li>
     <li><a href="#histrionic">Histrionic Personality Disorder</a></li>
     <li><a href="#narcissistic">Narcissistic Personality Disorder</a></li>
     <li><a href="#mediab">Related Media</a></li>
-
+</ul>
 
 <div id="antisocial">
     <h4>Antisocial Personality Disorder:</h4>
 <p><em>Antisocial Personality Disorder is characterized by a pervasive pattern of disregard for the rights of other people that often manifests as hostility and/or aggression. Deceit and manipulation are also central features. A person must be over 18 to be professionally diagnosed.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-
+<ul>
     <li>Disregard for others' needs or feelings.</li>  
     <li>Themes of compulsive lying, stealing, and using aliases.</li>
     <li>Recurring problems with the law.</li>
@@ -163,6 +164,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>Disregard for the safety of one's self and others around them.</li>
     <li>As children, these people may engage in hostile acts such as bullying or intimidating others.</li>
     <li> These people will often blame their victims for "causing" their wrong actions, or deserving of their fate.</li>
+	</ul>
 <br></br>
 <img src="https://static.toiimg.com/thumb/msid-75323379,imgsize-297819,width-800,height-600,resizemode-75/75323379.jpg" width="500">
 
