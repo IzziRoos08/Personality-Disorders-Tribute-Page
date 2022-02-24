@@ -54,7 +54,7 @@ disorders. The clusters include:
 
 <img src="https://miro.medium.com/max/1400/1*Ql2lahnTYfezv9904T3ouQ.png "  
 width="500" height="300">
-<br<</br>
+<br></br>
 
 <h2>Breaking Down Each Disorder in Each Cluster:</h2>
    
