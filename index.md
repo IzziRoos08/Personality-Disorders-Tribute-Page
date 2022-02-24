@@ -40,10 +40,11 @@ thinking or behavior disorders. Cluster B holds dramatic and unpredictable think
 or behavior disorders. Cluster C holds anxious and fearful thinking or behavior 
 disorders. The clusters include:
 
-
+<ul>
    <li><strong>Cluster A:</strong>Paranoid, Schizoid, Schizotypal</li>
    <li><strong>Cluster B:</strong>Antisocial, Borderline, Histrionic, Narcissistic</li>
    <li><strong>Cluster C:</strong>Avoidant, Dependent, Obsessive-compulsive</li>
+</ul>
 <div> </div>
 
 <br></br>
@@ -58,13 +59,13 @@ width="500" height="300">
 <h2>Breaking Down Each Disorder in Each Cluster:</h2>
    
    <h3>Cluster A</h3>
-
+<ul>
 
   <li><a href="#paranoid">Paranoid Personality Disorder</a></li>
   <li><a href="#schizoid">Schizoid Personality Disorder</a></li>
   <li><a href="#schizotypal">Schizotypal Personality Disorder</a></li>
   <li><a href="#mediaa">Related Media</a></li>
-
+</ul>
 
 <div id="paranoid"></div>
 
@@ -73,7 +74,7 @@ width="500" height="300">
 fear, and suspicion of the people around them.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-  
+  <ul>
      <li>Unwarranted beliefs that others are trying to harm or deceive a person.</li>
      <li>Unjustified suspicion of the loyalty or trustworthiness of friends or loved ones.</li>
      <li>Hesitancy for a person to confide in others because a person is afraid that others will betray or blackmail the paranoid person.</li>
@@ -83,7 +84,7 @@ fear, and suspicion of the people around them.</em></p>
      <li>Lash out at people who they perceive are threatening to them.</li>
      <li>A view of a person's self, others, and surroundings is distorted. These distortions take something that is generally harmless and makes it seem malevolent.</li>
      <li>The emotional stability of a paranoid person is flawed. Their emotional life is dominated mainly by distrust.</li>
-
+</ul>
 <br></br>
 
 <img src="https://quietmindswv.com/wp-content/uploads/2019/03/QuietMinds-ParanoidSchizophrenia-Blog-10.25-1.jpg" width="400" height="300">
@@ -97,13 +98,14 @@ disorder tend to be socially isolated. Schizoid Personality Disorder appears to 
 isn’t as much information regarding it.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-  
+  <ul>
      <li>A person almost always chose solitary activities, they take little pleasure out of life.</li>
      <li>Often prefer mechanical or abstract activities that involve little human interaction and appear indifferent to both criticism and praise.</li>
      <li>Emotionally, they seem aloof, detached, and cold.</li>
      <li>Oblivious to social cues, causing them to appear socially inept and superficial.
      <li>Restricted emotional range, these people fail to reciprocate gestures or facial expressions, causing them to appear inattentive.</li>
      <li>Lack of interest in relationships, preferring to be alone a majority of the time.</li>
+	</ul>
   <br></br>
 
 <img src="https://d3iazq41jmjhhc.cloudfront.net/wp-content/uploads/2019/06/The-Challenges-of-Schizoid-Personality-Disorder-and-Relationships-How-Treatment-Can-Help-855x570.jpg" width="450" height="300">
