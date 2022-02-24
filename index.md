@@ -173,14 +173,14 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <p><em>People with Borderline Personality Disorder often experience intense, unstable emotions and moods that have the potential to shift almost instantly. They generally have a hard time calming themselves down once they become upset. As a result of this, these people frequently have angry outbursts and engage in impulsive behaviors such as substance abuse, self-injury, overspending, or binge eating. These behaviors often function to soothe them in the short term but harm them in the longer term. This is the most widely studied personality disorder.</em></p>
 
 <p>Some other chracteristics of this disorder include:</p>
-
+<ul>
 <li>Applying harsh judgments to others and to themselves and their perceptions of themselves and others may quickly vacillate back and forth between "all good" and "all bad."</li>
 <li> Often have an unstable sense of self, therefore people with this disorder tend to have a hard time being consistent.</li>
 <li>Frequently change careers, relationships, life goals, or residences. Quite often these radical changes occur without any warning or advance preparation.</li>
 <li>Indulge in impulsive and risky behavior.<li>
 <li>Often experience bipolar-like moods, often as a reaction to interpersonal stress.</li>
 <li>Ongoing feelings of emptiness.</li>
-
+	</ul>
 <p>People with Borderline Personality Disorder view the world in terms of black-and-white. Their tendency to see the world in polarized terms makes it easy for them to misinterpret the actions and motivations of others. These polarized thoughts with things such as friendships or relationships can lead them to experience intense emotional reactions, which in turn interact with their difficulties in regulating these intense emotions. The result of this is they will characteristically experience strong feelings of distress, which they cannot easily control, and may subsequently engage in self-destructive behaviors as they do their best to cope. The intensity of their emotions, coupled with their difficulty regulating these emotions, leads them to act impulsively.
 </p>
 
@@ -191,7 +191,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <p><em>Histrionic personality disorder is characterized by a pattern of excessive emotionality and attention-seeking. Their lives are full of drama. They are uncomfortable in situations where they are not the center of attention.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-
+<ul>
     <li>People with this disorder are often quite flirtatious. These people dress in a manner that draws attention to them.</li>
     <li>Act flamboyant and theatrical, they exhibit an exaggerated degree of emotional expression.</li>
     <li>Emotional expressions are vague, shallow, and lacking in detail, these people are often insincere.</li>
@@ -201,6 +201,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>Excessive concern with physical appearance.</li>
     <li>Thinks relationships with others are closer than they really are.</li>
     <li>Tend to feel depressed when they are not the center of attention.</li>
+	</ul
 <br></br>
 
 <img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_619745378_303256.jpg" width="500">
@@ -210,7 +211,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <p><em>Narcissistic Personality Disorder is characterized by significant problems with a person's sense of self-worth, causing them to feel powerful and entitled. This leads them to believe they deserve special treatment, and to assume they have special powers, are uniquely talented, or that they are especially brilliant or attractive. This sense of entitlement usually leads a person to act in ways that fundamentally disregard and disrespect the worth of those around them.</em></p>
 
 <p>Other characteristics of this disorder include:</p>
-
+<ul>
     <li>Generally preoccupied with fantasies of unlimited success and power, sometimes so much that they might end up getting lost in their daydreams while they fantasize about their own intelligence or beauty. In some instances, these fantasies cause them to not put any effort into their daily life and don't direct their energies toward accomplishing any goals.</li>
     <li>Believe that they are special and deserve special treatment, this will cause them to display an attitude that is relatively arrogant.</li>
     <li>Often feel devastated when they realize they have a normal human life, that they are not as special as they believe, or that others don't admire them as much as they would like.</li>
@@ -220,7 +221,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>Vacillate between feeling like they have unlimited abilities, and feeling worthless and devastated when they realize that they have a normal life.</li>
     <li>Despite their exterior attitude, they require lots of validation from others to boost their fragile self-esteem..</li>
     <li>Very manipulative in extracting the necessary attention from those people around them.</li>
-
+	</ul>
 
 <br></br>
 <img src="https://www.verywellmind.com/thmb/7N2EpBtQXLV7Q6LUDtMhe2iZ0Ho=/2125x1195/smart/filters:no_upscale()/narcissism-56a5ff625f9b58b7d0df654a.jpg" width="500">
@@ -237,18 +238,18 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 
 
 <h3>Cluster C</h3>
-
+<ul>
     <li><a href="#avoidant">Avoidant Personality Disorder</a></li>
     <li><a href="#dependent">Dependent Personality Disorder</a></li>
     <li><a href="#ocd">Obsessive-Compulsive Disorder</a></li>
     <li><a href="#mediac">Related Media</a></li>
-
+	</ul>
 <div id="avoidant">
     <h4>Avoidant Personality Disorder:</h4>
 <p><em>Avoidant personality disorder is characterized by pervasive patterns of social inhibition, feelings of inadequacy, and hypersensitivity to negative evaluation. People with this disorder are constantly and intensely afraid that others reject or criticize them.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-
+<ul>
     <li>Experience feelings of inadequacy, inferiority, or unattractiveness.</li>
     <li>Avoidance of work activities that require interpersonal contact.</li>
     <li>Socially inhibited, timid and isolated, avoiding new activities or meeting strangers.</li>
@@ -257,7 +258,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>A person tends to avoid social situations and interactions.</li>
     <li>Tend to interpret the world around them with the mentality that they are not good enough and that others don't like them.</li>
     <li>Experience feelings of intense anxiety in social situations, along with a fear of being ridiculed, criticized, and rejected.</li>
-
+	</ul>
 <br></br>
 
 <img src="https://www.therecoveryvillage.com/wp-content/uploads/2020/06/Avoidant-Personality-Disorder-statistics.jpg" width="500">
@@ -267,7 +268,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <p><em>Dependent personality disorder is characterized by a person's strong need to be taken care of by other people. This need to be taken care of is also associated with the fear of losing the support of others. The disorder often leads people to behave in a "clingy" manner and to often submit to the desires of other people.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-
+	<ul>
     <li>Display excessive dependence on others and often feel the need to be taken care of.</li>
     <li>Submissive or clingy behavior toward others.</li>
     <li>Have a constant fear of having to provide self-care or protection for one’s self.</li>
@@ -275,7 +276,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>Lack of self-confidence, leading them to rarely disagree with others, fearing disapproval.</li>
     <li>Feel an urgent need to start a new relationship, even when a close one has just ended.</li>
     <li>Intense fear of losing a relationship makes them vulnerable to manipulation and abuse.</li>
-
+	</ul>
 <br></br>
 <img src="https://batonrougebehavioral.com/wp-content/uploads/2020/06/shutterstock_1715503540.jpg" width="500">
 
@@ -284,7 +285,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <p><em>Obsessive-compulsive personality disorder is characterized by being consumed with rules, regulations, and orderliness. This preoccupation with perfectionism limits flexibility, openness, and efficiency. It is important to note that Obsessive-compulsive personality disorder is not the same as obsessive-compulsive disorder, a type of anxiety disorder.</em></p>
 
 <p>Some other characteristics of this disorder include:</p>
-
+<ul>
     <li>Display extreme perfectionism, which results in dysfunction and distress when perfection is not achieved.</li>
     <li>Often have a desire to be in control of people, tasks, and situations. This also comes with ab inability to delegate tasks.</li>
     <li>Tend to neglect friends and enjoyable activities because of excessive commitment to some form of work.</li>
@@ -292,7 +293,7 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
     <li>Very inflexible regarding morality, ethics, or values.</li>
     <li>Extreme control over the budgeting and spending of money.</li>
     <li>Devoted to working to such a degree that they neglect social relationships.</li>
-
+	</ul>
 
 <br></br>
 <img src="https://ceanpsiquiatras.com/img/leoblog/b/lg-b-toc%20def.jpg" width="500">
@@ -311,12 +312,12 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <img src="https://cdn1.stayprepared.sg/wp-content/uploads/sites/13/2020/12/understanding-personality-disorders-2.jpg" width="400">
 
 <p>Personality disorders generally develop during childhood. A person's personality usually crystalizes by the ages 10-12. Certain personality traits can become too rigid while some others can be underdeveloped. Certain conditions can cause these specific traits to be under or overdeveloped. These conditions include:</p>
-
+<ul>
     <li>Physical Childhood Abuse</li>
     <li>Verbal Abuse</li>
     <li>Unsafe Environment</li>
     <li>Child separation/neglect from parents or guardians</li>
-
+	</ul>
 <p>Other than childhood problems, some personality disorders can be caused by genetics or people living in an environment with others with a personality disorder. Other disorders develop as a mental escape or a coping mechanism for some.</p>
 
 <h2>Risks of Personality Disorders</h2>
@@ -330,10 +331,11 @@ autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allow
 <img src="https://finestservices.com.sg/wordpress/wp-content/uploads/2021/09/insightful_counselling2-1024x732.jpg" width="400">
 
 <p>Personality disorders are extremely hard to treat and are pretty much incurable. Treatments for these disorders can only make the patient more comfortable and calmer with themselves and others. Some symptoms of these disorders can be cured, but most aspects of the disorder cannot be fixed. Some of the most popular and the most effective treatments for personality disorders include:</p>
-
+<ul>
     <li>Psychotherapy</li>
     <li>Dialectal Behavioral Therapy</li>
     <li>Some medications including antidepressants, anti-psychotics, anti-anxiety drugs, and impulse-stabilizing medications</li>
+	</ul>
 <br></br>
 <br></br>
 
