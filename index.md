@@ -69,7 +69,7 @@ width="500" height="300">
 
 <div id="paranoid"></div>
 
-    <h4>Paranoid Personality Disorder:</h4>
+    <h4> Paranoid Personality Disorder: </h4> 
 <p><em>Paranoid personality disorder is characterized by an irrational distrust,
 fear, and suspicion of the people around them.</em></p>
 
